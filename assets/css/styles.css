@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Teko", sans-serif;
+    background-color: #000;
+    color: #FFF;
+}
+
+h1 {
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+}
